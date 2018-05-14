@@ -3,9 +3,10 @@
 #### Epicodus Ruby Capstone
 ---
 ## Description
-
+Craving a delicious drink? A drink that has tapioca pearls in it? Don't know where to get it? Look no further!
+It will Boba Boba to your heart.
 ## User Stories
-* A user can signup/sign in
+* User will be greeted to a sign-in/sign-up page
 * A user can find a boba shop based on their location specifications
 * A user can view api results
 * A user can select one option to view details
@@ -37,7 +38,9 @@ then go to localhost:3000 in your browser
 - Ruby
 - Rails
 - Postgres
--
+- Gems (Devise, etc)
+- API (List them here)
+
 ## License
 
 *Licensed under MIT license*
