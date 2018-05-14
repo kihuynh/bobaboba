@@ -1,9 +1,9 @@
 # Boba Boba
 
 #### Epicodus Ruby Capstone
----
+
 ## Description
-Craving a delicious drink? A drink that has tapioca pearls in it? Don't know where to get it? Look no further!
+Lost? Craving a delicious drink? A drink that has tapioca pearls in it? Don't know where to get it? Look no further! Boba boba is a bubble tea searcher of your boba dreams. Simply login, or signup if you haven't. Add your location, and Boba boba will give you choices!
 It will Boba Boba to your heart.
 ## User Stories
 * User will be greeted to a sign-in/sign-up page
