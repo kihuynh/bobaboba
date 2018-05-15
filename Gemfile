@@ -33,6 +33,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'mini_magick', '~> 4.8'
 # Devise
 gem 'devise'
+# API
+gem 'yelp', require: 'yelp'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 # Reduces boot times through caching; required in config/boot.rb
