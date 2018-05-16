@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 # Devise
 gem 'devise'
 
-gem 'rest-client'
+# gem 'rest-client'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 # Reduces boot times through caching; required in config/boot.rb
