@@ -1,7 +1,7 @@
 # Boba Boba
 
 #### Epicodus Ruby Capstone
-
+(work in progress)
 ## Description
 Lost? Craving a delicious drink? A drink that has tapioca pearls in it? Don't know where to get it? Look no further! Boba boba is a bubble tea searcher of your boba dreams. Simply login, or signup if you haven't. Add your location, and Boba boba will give you choices!
 It will Boba Boba to your heart. :heart:
@@ -12,15 +12,20 @@ It will Boba Boba to your heart. :heart:
 * A user can select one option to view details
 * A detail page will display information from api calls
 
-## Current/Future
+## Current Features
 ```
-TBA
+- User login/logout
+```
+## Future Features
+```
+- Search bar connect with API call and output results
+- Click on a result to view more into details
 ```
 ## Setup/Installation
 
 To clone onto your local machine, run the following in the terminal
 ```
- $ git clone https://github.com/kihuynh/portfolio_2.0
+ $ git clone https://github.com/kihuynh/bobaboba
 ```
 go into the project folder
 ```
